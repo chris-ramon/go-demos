@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scripts">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../xims-web/app/scripts" />
+    </SOURCES>
+  </library>
+</component>
